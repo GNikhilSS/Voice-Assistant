@@ -1,5 +1,5 @@
 # Voice-Assistant
-Description:
+# Description:
 I have developed a simple voice assistant using Python. My main tech stack only includes Python. I used Python to implement features like receiving user commands through voice, generating bot responses, and accomplishing certain actions that a user would likely do. Through this app, he will be able to open certain apps on his PC or go to specific web pages. They can also have the time displayed, weather, and others. More actions can be added by merely modifying the action page.
 
 Speech-to-Text Functionality
